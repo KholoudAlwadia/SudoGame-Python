@@ -1,1 +1,2 @@
-# Sodo-Game-by-python
+# Sodo-Game-by-python 
+sudo game with GUI 
